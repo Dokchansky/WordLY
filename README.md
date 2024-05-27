@@ -1,5 +1,5 @@
 # WordLY
-*Добро пожаловать в репозиторий моего проекта по разработке игры "WordLY"
+*Добро пожаловать в репозиторий моего проекта по разработке игры "WordLY"*
 
 ![Meme](https://media1.tenor.com/m/d4sPgSJml54AAAAC/opihomm-funny.gif)
 
